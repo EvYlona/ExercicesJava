@@ -1,3 +1,5 @@
+package ExercicesFonctions;
+
 public class InversedString {
     public static void main(String[] args){
         String str = "Salutations";

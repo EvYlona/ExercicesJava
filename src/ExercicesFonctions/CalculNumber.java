@@ -1,3 +1,5 @@
+package ExercicesFonctions;
+
 public class CalculNumber {
 
     public static void main(String [] args) {

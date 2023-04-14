@@ -1,3 +1,5 @@
+package ExercicesFonctions;
+
 import java.util.Scanner;
 
 public class PairImpair {

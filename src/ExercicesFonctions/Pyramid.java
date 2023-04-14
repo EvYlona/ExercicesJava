@@ -1,3 +1,5 @@
+package ExercicesFonctions;
+
 public class Pyramid {
     public static void main(String[] args) {
         int rows = 9;//Hauteur
