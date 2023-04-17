@@ -1,4 +1,4 @@
-package Store;
+package Store.Entity;
 
 import java.util.Objects;
 
